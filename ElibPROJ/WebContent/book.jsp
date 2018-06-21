@@ -69,7 +69,7 @@
     
 }
 #myBtn {
-     /* Hidden by default */
+
    -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
